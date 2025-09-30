@@ -4,13 +4,13 @@
 "description": "Lightweight WhatsApp Multi-Device bot built with Baileys.",
 "license": "ISC",
 "author": "Rioo",
-"homepage": "https://github.com/AgusXzz/ESEMPE-MD#readme",
+"homepage": "https://github.com/ruoilin7-bot/Rioo-Bot#readme",
 "repository": {
 "type": "git",
-"url": "git+https://github.com/AgusXzz/ESEMPE-MD.git"
+"url": "git+https://github.com/ruoilin7-bot/Rioo-Bot.git"
 },
 "bugs": {
-"url": "https://github.com/AgusXzz/ESEMPE-MD/issues"
+"url": "https://github.com/ruoilin7-bot/Rioo-Bot/issues"
 },
 "type": "module",
 "main": "index.js",

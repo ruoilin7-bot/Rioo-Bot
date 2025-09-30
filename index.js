@@ -43,7 +43,7 @@ if (!conn.chats) conn.chats = {}
 if (!conn.authState.creds.registered) {
 setTimeout(async () => {
 try {
-const code = await conn.requestPairingCode(PAIRING_NUMBER, 'ESEMPEMD')
+const code = await conn.requestPairingCode(PAIRING_NUMBER, 'RIOORIOO')
 log.info(`Pairing Code: ${code}`)
 } catch (err) {
 log.error(`Gagal ambil pairing code: ${err}`)
