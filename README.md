@@ -1,8 +1,8 @@
-# ESEMPE-MD
+# RIOO BOT
 
-![ESEMPE-MD Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK3_60MiEWpItg8BbrvcF4Be_vgIDd8Ggj13AYkPqGdUosLSmCMCtGSY&s=10)
+![RIOO BOT Banner](https://files.catbox.moe/i28vi9.jpg)
 
-ESEMPE-MD adalah bot WhatsApp Multi-Device yang sederhana dan ringan.
+Rioo Bot adalah bot WhatsApp Multi-Device yang sederhana dan ringan.
 
 ---
 
@@ -22,8 +22,8 @@ ESEMPE-MD adalah bot WhatsApp Multi-Device yang sederhana dan ringan.
 ## Instalasi & Menjalankan
 1. Clone repository
    ```bash
-   git clone https://github.com/AgusXzz/ESEMPE-MD
-   cd ESEMPE-MD
+   git clone https://github.com/ruoilin7-bot/Rioo-Bot
+   cd Rioo-Bot
    ```
 
 2. Install dependensi
@@ -77,18 +77,9 @@ Untuk perubahan fitur besar, buka issue dulu supaya dibahas.
 ---
 
 ## Kontak
-Owner / Maintainer: AgusXzz  
-Repo: https://github.com/AgusXzz/ESEMPE-MD
-
-## Thanks To
-[![Dika Ardnt](https://github.com/DikaArdnt.png?size=100)](https://github.com/DikaArdnt)
-[![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets/Baileys)
-
-## Contributor
-[![Agus](https://github.com/AgusXzz.png?size=100)](https://github.com/AgusXzz)
-[![Senn](https://github.com/purrbits.png?size=100)](https://github.com/purrbits)
-[![Vcepirit😂](https://github.com/vryptt.png?size=100)](https://github.com/vryptt)
+Owner / Maintainer: Rioo  
+Repo: https://github.com/ruoilin7-bot/Rioo-Bot
 
 ---
-Terima kasih sudah menggunakan ESEMPE-MD!
-# CROTED BY EY AY
+Terima kasih sudah menggunakan Rioo Bot!
+# Thanks For Use
